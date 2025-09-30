@@ -3,7 +3,7 @@ import Hero from '../components/Hero'
 import Featureddestination from '../components/Featureddestination'
 import ExclusiveOffers from '../components/ExclusiveOffers'
 import Testimonial from '../components/Testimonial'
-import NewsLetter from '../components/Newsletter'
+import NewsLetter from '../components/NewsLetter'
 
 const Home = () => {
   return (

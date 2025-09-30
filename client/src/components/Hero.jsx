@@ -14,7 +14,7 @@ const Hero = () => {
     await axios.post('/api/user/store-recent-search', {recentSearchedCity: destination}, {headers: { Authorization: `Bearer ${await getToken()}` }})
 
     //add destination to SearchedCities max 3 recent searched Cities
-    setSearchedCities = ((prevSearchedCities)=>{
+    setSearchedCities((prevSearchedCities)=>{
       const updatedSearchedCities = [...prevSearchedCities, destination];
       if(updatedSearchedCities.length > 3){
         updatedSearchedCities.shift();
