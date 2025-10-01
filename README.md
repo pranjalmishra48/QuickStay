@@ -16,7 +16,8 @@ With QuickStay, users can **browse hotels, book rooms, manage reservations, and 
 ## 📸 Screenshots  
 
 ### 🔐 Login Page  
-<img width="648" height="695" alt="image" src="https://github.com/user-attachments/assets/3c946e18-3473-49d3-b382-80857118468b" />
+<img width="498" height="599" alt="image" src="https://github.com/user-attachments/assets/5db374d1-2d35-4c58-9ed5-cc6ba63fa66b" />
+
 
 
 ---
